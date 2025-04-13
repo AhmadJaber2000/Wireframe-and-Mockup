@@ -13,7 +13,8 @@
 ---
 ## Sign Up Page
 - Have 4 field to the user to sign up
-- -First Name
-- -Last Name
-- -Email
-- -Password
+  First Name
+  Last Name
+  Email
+  Password
+  
