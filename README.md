@@ -13,8 +13,9 @@
 ---
 ## Sign Up Page
 - Have 4 field to the user to sign up
-  First Name
-  Last Name
-  Email
-  Password
+1.First Name
+2.Last Name
+3.Email
+4.Password
+  ---
   
